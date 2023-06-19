@@ -1,6 +1,6 @@
-**Introduction:**
 
-<h1>Hello there! 👋 My name is Pritee Chauhan</h1>, <h4></h4>and I'm thrilled to welcome you to my GitHub profile. I am a passionate full-stack web developer based in India. With a deep-rooted love for coding and an insatiable curiosity, I strive to create exceptional web experiences that leave a lasting impression.</h4>
+<h1>Hello there! 👋 My name is Pritee Chauhan</h1>
+<h4>and I'm thrilled to welcome you to my GitHub profile. I am a passionate full-stack web developer based in India. With a deep-rooted love for coding and an insatiable curiosity, I strive to create exceptional web experiences that leave a lasting impression.</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
