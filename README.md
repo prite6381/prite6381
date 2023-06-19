@@ -1,32 +1,6 @@
 **Introduction:**
 
-Hello there! 👋 My name is Pritee Chauhan, and I'm thrilled to welcome you to my GitHub profile. I am a passionate full-stack web developer based in India. With a deep-rooted love for coding and an insatiable curiosity, I strive to create exceptional web experiences that leave a lasting impression.
-
-**My Journey as a Full Stack Web Developer:**
-
-My journey in the world of web development began several years ago when I discovered my affinity for transforming ideas into tangible digital solutions. Since then, I have dedicated countless hours to mastering various programming languages, frameworks, and tools that power the web.
-
-As a full-stack developer, I embrace both the frontend and backend realms, bringing balance and harmony to my projects. I have honed my skills in HTML, CSS, JavaScript, and their respective frameworks such as React and Angular on the frontend. On the server-side, I excel in building robust APIs and handling data with technologies like Node.js, Express, and MongoDB.
-
-**Passion for Creativity and Problem-Solving:**
-
-What truly fuels my passion for web development is the opportunity it presents to blend creativity and problem-solving. I believe that a well-designed and intuitive user interface combined with efficient and scalable backend architecture can elevate any digital experience. I strive to strike that perfect balance in every project I undertake.
-
-Throughout my journey, I have worked on a diverse range of projects, from building responsive websites and e-commerce platforms to crafting dynamic web applications. I have gained valuable experience collaborating with cross-functional teams and delivering projects that exceed expectations.
-
-**Open Source and GitHub:**
-
-As a believer in the power of collaboration and knowledge-sharing, I actively contribute to the open-source community. GitHub has been an integral part of my development journey, allowing me to connect with fellow developers, explore exciting projects, and share my own contributions. On my GitHub profile, you'll find a collection of my personal projects, code snippets, and collaborations.
-
-**Let's Connect:**
-
-If you have any questions, suggestions, or opportunities for collaboration, please feel free to reach out to me. I'm always excited to connect with fellow developers, designers, and enthusiasts who share a passion for creating exceptional web experiences.
-
-Thank you for visiting my GitHub profile, and I look forward to exploring the vast world of code together!
-
-Best regards,
-Pritee Chauhan
-
+<h1>Hello there! 👋 My name is Pritee Chauhan</h1>, <h4></h4>and I'm thrilled to welcome you to my GitHub profile. I am a passionate full-stack web developer based in India. With a deep-rooted love for coding and an insatiable curiosity, I strive to create exceptional web experiences that leave a lasting impression.</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
